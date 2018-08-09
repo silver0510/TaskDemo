@@ -1,0 +1,11 @@
+D:\Project Study C#\Demo\TaskDemo\bin\Debug\netcoreapp2.0\TaskDemo.deps.json
+D:\Project Study C#\Demo\TaskDemo\bin\Debug\netcoreapp2.0\TaskDemo.runtimeconfig.json
+D:\Project Study C#\Demo\TaskDemo\bin\Debug\netcoreapp2.0\TaskDemo.runtimeconfig.dev.json
+D:\Project Study C#\Demo\TaskDemo\bin\Debug\netcoreapp2.0\TaskDemo.dll
+D:\Project Study C#\Demo\TaskDemo\bin\Debug\netcoreapp2.0\TaskDemo.pdb
+D:\Project Study C#\Demo\TaskDemo\obj\Debug\netcoreapp2.0\TaskDemo.csprojResolveAssemblyReference.cache
+D:\Project Study C#\Demo\TaskDemo\obj\Debug\netcoreapp2.0\TaskDemo.csproj.CoreCompileInputs.cache
+D:\Project Study C#\Demo\TaskDemo\obj\Debug\netcoreapp2.0\TaskDemo.AssemblyInfoInputs.cache
+D:\Project Study C#\Demo\TaskDemo\obj\Debug\netcoreapp2.0\TaskDemo.AssemblyInfo.cs
+D:\Project Study C#\Demo\TaskDemo\obj\Debug\netcoreapp2.0\TaskDemo.dll
+D:\Project Study C#\Demo\TaskDemo\obj\Debug\netcoreapp2.0\TaskDemo.pdb
